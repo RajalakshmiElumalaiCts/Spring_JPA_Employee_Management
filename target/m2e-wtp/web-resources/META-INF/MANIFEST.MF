@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring_JPA_Employee_Management
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ragulcs
+Implementation-Vendor-Id: com.jpa.emp
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/Spring_JPA_E
+ mployee_Management/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
