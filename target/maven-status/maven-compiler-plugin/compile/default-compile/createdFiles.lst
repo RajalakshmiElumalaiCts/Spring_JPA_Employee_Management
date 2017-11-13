@@ -1,2 +1,6 @@
-com\jpa\emp\ServletInitializer.class
+com\jpa\emp\entity\Team.class
 com\jpa\emp\SpringJpaEmployeeManagementApplication.class
+com\jpa\emp\config\DBConfiguration.class
+com\jpa\emp\ServletInitializer.class
+com\jpa\emp\entity\Employee.class
+com\jpa\emp\entity\Project.class
